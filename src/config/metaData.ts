@@ -14,9 +14,8 @@ const metaDataJson: Metadata = {
         {
             name: SiteInfo.username,
             url: SiteInfo.domain
-        }
+        },
     ],
-
     twitter: {
         
     }
