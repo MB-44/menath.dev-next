@@ -4,6 +4,7 @@ export default class WebLinks {
     public static readonly github: string = "https://github.com/MB-44";
     public static readonly linkedin: string = "https://linkedin.com/in/itsmenathbadde";
     public static readonly youtube: string = "https://www.youtube.com/@TKMLB";
+    public static readonly twitter: string = "https://x.com/itsmenathBadde";
     public static readonly instargram: string = "https://instagram.com/_itzmenaa_";
     public static readonly email: string = "menathbaddegama@bcgame.com";
     public static readonly portfolioRepo: string = "https://github.com/MB-44/menath.dev";

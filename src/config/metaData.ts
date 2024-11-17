@@ -17,6 +17,11 @@ const metaDataJson: Metadata = {
         },
     ],
     twitter: {
-        
+        card: "summary_large_image",
+        site: `@${WebLinks.twitter}`,
+        creator: `@${WebLinks.twitter}`,
+        title: SiteInfo.username,
+        description: SiteInfo.description,
+        images: ""
     }
 }
